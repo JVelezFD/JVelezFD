@@ -2,7 +2,8 @@
 Being a web developer means being part of a community. Here is my place to share my projects not only for applying for jobs or working as a freelancer but also so that I can share my work with fellow developers and collaborate on future projects.<br><br>Always learning is the mantra I live by.
 
 ## 🎖️ Certifications:
-![CSM Badge](https://github.com/JVelezFD/JVelezFD/assets/101678295/b21d7ffb-e01a-4ea0-9c88-3a94d964e35e)
+<img src="![CSM Badge](https://github.com/JVelezFD/JVelezFD/assets/101678295/b21d7ffb-e01a-4ea0-9c88-3a94d964e35e)" alt="Description" width="100" height="100">
+
 
 
 ## 🌐 Socials:
